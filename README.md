@@ -10,9 +10,6 @@ Select projects (quick links for hiring screens)
 - Portfolio — https://github.com/hissamdev/portfolio  
   Personal website demonstrating design sense, live projects, and contact information. Languages: TypeScript (91.1%), CSS (8.4%).
 
-- Diary App — https://github.com/hissamdev/diary-app  
-  Productivity/journaling application built with TypeScript-first practices. Languages: TypeScript (98.7%).
-
 - General E‑commerce — https://github.com/hissamdev/general-ecommerce  
   E‑commerce UI patterns and flows (product listings, carts, checkout prototypes). Languages: TypeScript (54.7%), CSS (40.1%).
 
