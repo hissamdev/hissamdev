@@ -1,4 +1,4 @@
-# Ahmed Hissam
+# Ahmed Hissam | Full Stack Developer
 Full Stack Developer proficient in React and Next.js, and possess practical understanding of Express.js, Laravel
 
 ## Primary Stack
