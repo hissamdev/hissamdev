@@ -1,9 +1,9 @@
 # Ahmed Hissam | Full Stack Developer
-Full Stack Developer proficient in React and Next.js, and possess practical understanding of Express.js, Laravel
+Full Stack Developer proficient in React and Next.js, and possess a practical understanding of backend frameworks like Express.js, Laravel
 
 ## Primary Stack
 These are the technologies I am proficient in and primarily work with.
-- Front and Backend development with Next.js
+- Front and Backend development with Next.js and features like SSR, React Hooks, Server Actions, Caching, route handlers etc.
 - TypeScript
 - PostgresSQL
 - Prisma, Drizzle
